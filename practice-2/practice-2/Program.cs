@@ -15,14 +15,14 @@ namespace practice_2
             x = new int[10,10];
             string a;
             for(int i = 0;i < 10; ++i)
-            {
-                for (int j = 0; j < 10; ++j) {
-                    a = Console.ReadLine();
-                    if (a == null)
+                {
+                a = Console.ReadLine();
+                if (string.IsNullOrWhiteSpace(a))
                     {
+                        Console.Write("3464");
+
                         break;
                     }
-                }
             }
             Console.WriteLine("請輸入矩陣二(輸入空行完成):");
 
