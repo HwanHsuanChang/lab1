@@ -1,0 +1,6 @@
+C:\Users\ncku\Desktop\practice-2\practice-2\bin\Debug\practice-2.exe.config
+C:\Users\ncku\Desktop\practice-2\practice-2\bin\Debug\practice-2.exe
+C:\Users\ncku\Desktop\practice-2\practice-2\bin\Debug\practice-2.pdb
+C:\Users\ncku\Desktop\practice-2\practice-2\obj\Debug\practice-2.csprojResolveAssemblyReference.cache
+C:\Users\ncku\Desktop\practice-2\practice-2\obj\Debug\practice-2.exe
+C:\Users\ncku\Desktop\practice-2\practice-2\obj\Debug\practice-2.pdb
